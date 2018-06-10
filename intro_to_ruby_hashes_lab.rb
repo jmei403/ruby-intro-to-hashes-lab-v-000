@@ -34,8 +34,6 @@ def monopoly_with_third_tier
 	monopoly
 end
 
-p monopoly_with_third_tier
-
 def monopoly_with_fourth_tier
 	#copy and past the monopoly hash you build in the previous method. We're going to add stuff to it here!
 
